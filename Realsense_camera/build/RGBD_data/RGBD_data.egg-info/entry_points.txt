@@ -1,0 +1,4 @@
+[console_scripts]
+realsense_pub = RGBD_data.realsense_pub:main
+realsense_sub = RGBD_data.realsense_sub:main
+

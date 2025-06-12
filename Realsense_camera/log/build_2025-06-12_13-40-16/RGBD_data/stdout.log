@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/RGBD_data/RGBD_data.egg-info
+writing ../../build/RGBD_data/RGBD_data.egg-info/PKG-INFO
+writing dependency_links to ../../build/RGBD_data/RGBD_data.egg-info/dependency_links.txt
+writing entry points to ../../build/RGBD_data/RGBD_data.egg-info/entry_points.txt
+writing requirements to ../../build/RGBD_data/RGBD_data.egg-info/requires.txt
+writing top-level names to ../../build/RGBD_data/RGBD_data.egg-info/top_level.txt
+writing manifest file '../../build/RGBD_data/RGBD_data.egg-info/SOURCES.txt'
+reading manifest file '../../build/RGBD_data/RGBD_data.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/RGBD_data/RGBD_data.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build
+creating /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib
+creating /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data
+copying RGBD_data/__init__.py -> /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data
+copying RGBD_data/realsense_sub.py -> /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data
+copying RGBD_data/realsense_pub.py -> /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data
+running install
+running install_lib
+creating /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data
+copying /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data/__init__.py -> /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data
+copying /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data/realsense_sub.py -> /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data
+copying /home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/build/lib/RGBD_data/realsense_pub.py -> /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data
+byte-compiling /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data/realsense_sub.py to realsense_sub.cpython-310.pyc
+byte-compiling /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data/realsense_pub.py to realsense_pub.cpython-310.pyc
+running install_data
+creating /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/share/ament_index
+creating /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/share/ament_index/resource_index
+creating /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/share/ament_index/resource_index/packages
+copying resource/RGBD_data -> /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/share/ament_index/resource_index/packages
+copying package.xml -> /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/share/RGBD_data
+running install_egg_info
+Copying ../../build/RGBD_data/RGBD_data.egg-info to /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/python3.10/site-packages/RGBD_data-0.0.0-py3.10.egg-info
+running install_scripts
+Installing realsense_pub script to /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/RGBD_data
+Installing realsense_sub script to /home/WVU-AD/md00126/real_sense_camera/install/RGBD_data/lib/RGBD_data
+writing list of installed files to '/home/WVU-AD/md00126/real_sense_camera/build/RGBD_data/install.log'
